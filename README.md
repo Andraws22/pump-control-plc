@@ -7,8 +7,8 @@
 
 > Automated water tank filling system using four pumps and four float-level sensors. Pumps shut off sequentially as the tank fills, and a drain valve opens at maximum capacity to prevent overflow.
 
-**Author:** Andraws Samoel  
-**Course:** Programmable Logic Controllers (MAE311) — Mechatronics & Automation Engineering, Benha National University  
+**Author:** Andraws Samoel Sobhy Baskhron Saad
+**Course:** Programmable Logic Controllers (MAE311) — Mechatronics & Automation Engineering  
 **Supervisors:** Assoc. Prof. Islam Mohamed · Assoc. Prof. Mohamed Salah Selmy  
 **Hardware:** BEDO Advanced PLC Trainer · Siemens S7-1200 CPU 1214C DC/DC/DC  
 **Software:** Siemens TIA Portal · LAD (Ladder Diagram)
