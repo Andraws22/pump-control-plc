@@ -15,7 +15,7 @@
 
 ---
 
-![BEDO Advanced PLC Trainer](assets/trainer_photo.jpg)
+![BEDO Advanced PLC Trainer](assets/trainer_photo.png)
 
 ---
 
